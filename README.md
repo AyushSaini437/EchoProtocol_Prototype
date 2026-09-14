@@ -42,7 +42,7 @@ Every action in the environment produces expanding **acoustic shockwaves**:
 * **The Day-1 Hook**: High-skill rating system ($S$, $A$, $B$, $C$ Rank) based on clear time, health preserved, and stealth kill ratio. Achieving an **S-Rank (Ghost Agent)** requires precision routing, acoustic baiting, and zero alarms.
 
 ### 3. Progression & Metagame
-* **Day-1 to Day-30 Retention**:
+* **Day-1 to Day-7 Retention**:
   * **Operative Loadouts**: Unlockable tactical gear (e.g., sound-dampening boots to suppress sprint noise, subsonic rounds, acoustic decoy grenades).
   * **Daily Contracts**: Procedurally populated infiltration scenarios with varying modifier conditions (e.g., "Laser Tripwires", "Heavy Fog", "Radio Jamming").
   * **Endless Compound Mode**: Waves of adaptive hostiles testing how long the operative can survive once the global compound alarm triggers.
@@ -91,3 +91,4 @@ Every action in the environment produces expanding **acoustic shockwaves**:
 1. Open project in **Unity 6 (6000.0+)**.
 2. Open scene: `Assets/Scenes/SampleScene.unity`.
 3. Press **Play** in Editor, or select **File > Build Profiles > Web - Desktop - Development > Build And Run**.
+
