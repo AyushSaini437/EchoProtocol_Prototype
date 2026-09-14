@@ -563,6 +563,9 @@ PlayerSettings:
   - serializedVersion: 3
     m_BuildTarget: Android
     m_Formats: 03000000i
+  - serializedVersion: 3
+    m_BuildTarget: WebGL
+    m_Formats: 05000000i
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -831,7 +834,8 @@ PlayerSettings:
   webWasm2023: 1
   webEnableSubmoduleStrippingCompatibility: 0
   webProgressiveAssetLoading: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: SENTIS_ANALYTICS_ENABLED;APP_UI_EDITOR_ONLY
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -929,14 +933,14 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 0
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 
+  cloudProjectId: 3c3d2ce3-2311-4b31-aff7-984f7f853bc4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: EchoProtocol_Prototype
+  organizationId: ayushsaini437-gmail-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

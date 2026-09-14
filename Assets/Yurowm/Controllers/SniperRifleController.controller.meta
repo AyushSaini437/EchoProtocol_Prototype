@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dffbd9326394a8d47a87a1e2aec70a59
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29235
+  packageName: Contract Killer
+  packageVersion: 1.2
+  assetPath: Assets/Yurowm/Controllers/SniperRifleController.controller
+  uploadId: 62633
